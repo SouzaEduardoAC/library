@@ -1,0 +1,12 @@
+version: '3.3'
+
+services:
+    database:
+        image: postgres
+        restart: always
+        environment:
+            POSTGRES_PASSWORD: Hr3xhKc7BgkExunE
+            POSTGRES_USER: library
+            POSTGRES_DB: library
+        ports:
+          - 5432:5432

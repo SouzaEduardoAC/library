@@ -21,6 +21,7 @@ namespace library
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<BookContext>(opt => opt.UseNpgsql(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddScoped<IBookService, BookService>();
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
 

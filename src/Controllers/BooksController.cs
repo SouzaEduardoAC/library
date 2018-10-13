@@ -40,7 +40,7 @@ namespace library.Controllers
         public IActionResult Post([FromBody] BookDTO bookDTO)
         {
             var book = _service.Create(bookDTO);
-            return CreatedAtRoute("GetBook", new { id = book.GetId() }, book);
+            return CreatedAtRoute("GetBook", new { id = book.ID }, book);
         }
 
         [HttpPut("{id}")]

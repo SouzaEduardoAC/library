@@ -1,0 +1,17 @@
+/home/eduardo/Projects/library/tests/LibraryTests/obj/Debug/netcoreapp2.1/LibraryTests.csprojAssemblyReference.cache
+/home/eduardo/Projects/library/tests/LibraryTests/obj/Debug/netcoreapp2.1/LibraryTests.csproj.CoreCompileInputs.cache
+/home/eduardo/Projects/library/tests/LibraryTests/obj/Debug/netcoreapp2.1/LibraryTests.AssemblyInfoInputs.cache
+/home/eduardo/Projects/library/tests/LibraryTests/obj/Debug/netcoreapp2.1/LibraryTests.AssemblyInfo.cs
+/home/eduardo/Projects/library/tests/LibraryTests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/eduardo/Projects/library/tests/LibraryTests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/home/eduardo/Projects/library/tests/LibraryTests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/home/eduardo/Projects/library/tests/LibraryTests/bin/Debug/netcoreapp2.1/LibraryTests.deps.json
+/home/eduardo/Projects/library/tests/LibraryTests/bin/Debug/netcoreapp2.1/LibraryTests.runtimeconfig.json
+/home/eduardo/Projects/library/tests/LibraryTests/bin/Debug/netcoreapp2.1/LibraryTests.runtimeconfig.dev.json
+/home/eduardo/Projects/library/tests/LibraryTests/bin/Debug/netcoreapp2.1/LibraryTests.dll
+/home/eduardo/Projects/library/tests/LibraryTests/bin/Debug/netcoreapp2.1/LibraryTests.pdb
+/home/eduardo/Projects/library/tests/LibraryTests/bin/Debug/netcoreapp2.1/library.dll
+/home/eduardo/Projects/library/tests/LibraryTests/bin/Debug/netcoreapp2.1/library.pdb
+/home/eduardo/Projects/library/tests/LibraryTests/obj/Debug/netcoreapp2.1/LibraryTests.csproj.CopyComplete
+/home/eduardo/Projects/library/tests/LibraryTests/obj/Debug/netcoreapp2.1/LibraryTests.dll
+/home/eduardo/Projects/library/tests/LibraryTests/obj/Debug/netcoreapp2.1/LibraryTests.pdb

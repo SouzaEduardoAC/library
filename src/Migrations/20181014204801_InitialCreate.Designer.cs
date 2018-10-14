@@ -10,7 +10,7 @@ using library.Domains.Books;
 namespace library.Migrations
 {
     [DbContext(typeof(BookContext))]
-    [Migration("20181013181258_InitialCreate")]
+    [Migration("20181014204801_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
